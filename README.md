@@ -1,0 +1,2 @@
+# Slinging
+Just newbi repository
